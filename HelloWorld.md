@@ -13,7 +13,10 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## R Markdownsource('~/jjj/hi.R')
+source('~/jjj/hi.R')
+source('~/jjj/hi.R')
+
 
 ## This is an R Markdown document. 
 
